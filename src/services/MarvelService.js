@@ -1,7 +1,7 @@
 class MarvelService {
   _apiBase = "https://gateway.marvel.com:443/v1/public/";
   //Roman Blaskovich API
-  // _apiKey = "apikey=c5b574cd938a2449e401bae8b4359130";
+  // _apiKey = "";
   //Robot00000 API
   _apiKey = "apikey=bd44d5636cbce6e86ee84f9ad7422144";
   _baseOffset = 210;
